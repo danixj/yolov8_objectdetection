@@ -1,0 +1,6 @@
+train: F:\project\yolo_project\train
+val: F:\project\yolo_project\val
+
+nc: 1
+
+names: ["safety_helmet"]
